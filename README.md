@@ -9,3 +9,5 @@ Fungsionalitas :
 - Memiliki Dua Rak Buku (Selesai Dibaca dan Belum Selesai Dibaca)
 - Dapat Memindahkan Buku antar Rak
 - Dapat Menghapus Data Buku
+
+### Projek Belajar Membuat Front-End Web untuk Pemula
